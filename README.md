@@ -1,6 +1,5 @@
 # basic-chrome-extension
-Learning how to create Chrome extensions.
-
+Learning how to create a basic Chrome extension.
 
 ## Step 1: Initial extension 
 Let’s start simple and create a basic Chrome extension that we can install to chrome and check that it’s working.

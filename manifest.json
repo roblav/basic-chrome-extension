@@ -3,7 +3,7 @@
 
   "name": "Basic Chrome Extension",
   "description": "Learning how to create Chrome extensions.",
-  "version": "1.1",
+  "version": "1.2",
 
   "browser_action": {
    "default_icon": "icon.png",
